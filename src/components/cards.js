@@ -1,6 +1,5 @@
 function Cards(){
     return(
-    <>
     <div class="card" style="width: 18rem;">
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
@@ -10,7 +9,6 @@ function Cards(){
             <a href="#" class="card-link">Another link</a>
         </div>
     </div>
-    </>
     );
 }
 
