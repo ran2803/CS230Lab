@@ -1,4 +1,4 @@
-function Cards(){
+function Card(){
 
     return(
     <div class="card" style={{width: '300px', margin: '10px', display: 'inline-block'}}>
@@ -11,4 +11,4 @@ function Cards(){
     );  
 }
 
-export default Cards;
+export default Card;
